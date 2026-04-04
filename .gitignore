@@ -1,0 +1,9 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Our private project planning files
+project_outline.md
+feature_selection_rationale.md
+
+# macOS system files (if any get created)
+.DS_Store
