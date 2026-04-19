@@ -218,3 +218,6 @@ __marimo__/
 RESEARCH_LOG.md
 assessment_guidelines.pdf
 *.parquet
+# Allow processed train/test parquets for portability
+!multi_ds/train_crashes_final.parquet
+!multi_ds/test_crashes_final.parquet

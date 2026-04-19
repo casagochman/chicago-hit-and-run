@@ -1,0 +1,15 @@
+# Raw data (too large, not needed for writeup)
+raw_crashes.parquet
+raw_vehicles.parquet
+raw_people.parquet
+nightlife_licenses.parquet
+
+# Checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
