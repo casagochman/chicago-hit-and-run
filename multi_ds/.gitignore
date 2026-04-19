@@ -3,6 +3,7 @@ raw_crashes.parquet
 raw_vehicles.parquet
 raw_people.parquet
 nightlife_licenses.parquet
+PoliceBeatDec2012_*.geojson
 
 # Checkpoints
 .ipynb_checkpoints/
