@@ -14,3 +14,9 @@ PoliceBeatDec2012_*.geojson
 # Python
 __pycache__/
 *.pyc
+
+# Downloaded beat boundaries (auto-fetched from GitHub)
+PoliceBeatDec2012.geojson
+
+# Working directories
+junk/
